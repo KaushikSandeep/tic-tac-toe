@@ -7,6 +7,7 @@ for(let box of boxes){
     box.addEventListener("click",()=>{
         if(turn==="o"){
             box.textContent="o";
+            //bsdkjfhkla
             //cscsd
             turn="x";
             
