@@ -25,6 +25,7 @@ reset.addEventListener("click",()=>{
         box.textContent="";
         box.disabled=false;
         winnerText.textContent="";
+        let turn="o";
     }
 })
 function checkWinner(){
